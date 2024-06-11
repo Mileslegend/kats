@@ -1,7 +1,7 @@
 // NAVIGATION
 export const NAV_LINKS = [
     { href: '/', key: 'home', label: 'Home' },
-    { href: '/', key: 'how_hilink_work', label: 'How Hilink Work?' },
+    { href: '/', key: 'how_katsmo_work', label: 'How We Work?' },
     { href: '/', key: 'services', label: 'Services' },
     { href: '/', key: 'pricing ', label: 'Pricing ' },
     { href: '/', key: 'contact_us', label: 'Contact Us' },
@@ -22,14 +22,14 @@ export const NAV_LINKS = [
       icon: '/map.svg',
       variant: 'green',
       description:
-        'We provide a solution for you to be able to use our application when climbing, yes offline maps you can use at any time there is no signal at the location',
+        'We provide a solution for you to be able to navigate comfortably, yes offline maps you can use at any time there is no signal at the location',
     },
     {
       title: 'Set an adventure schedule',
       icon: '/calendar.svg',
       variant: 'green',
       description:
-        "Schedule an adventure with friends. On holidays, there are many interesting offers from Hilink. That way, there's no more discussion",
+        "Schedule an adventure with friends. On holidays, there are many interesting offers from Katsmo safaris. That way, there's no more discussion",
     },
     {
       title: 'Technology using augment reality',
@@ -43,7 +43,7 @@ export const NAV_LINKS = [
       icon: '/location.svg',
       variant: 'orange',
       description:
-        'Lots of new locations every month, because we have a worldwide community of climbers who share their best experiences with climbing',
+        'Lots of new locations every month, because we have a worldwide community of clients who share their best experiences with safaris',
     },
   ];
   
@@ -52,7 +52,7 @@ export const NAV_LINKS = [
     {
       title: 'Learn More',
       links: [
-        'About Hilink',
+        'About Katsmo',
         'Press Releases',
         'Environment',
         'Jobs',
@@ -62,15 +62,15 @@ export const NAV_LINKS = [
     },
     {
       title: 'Our Community',
-      links: ['Climbing xixixi', 'Hiking hilink', 'Hilink kinthill'],
+      links: ['Vibes pakalast', 'Hiking Katsmo', 'Katsmo kinthill'],
     },
   ];
   
   export const FOOTER_CONTACT_INFO = {
     title: 'Contact Us',
     links: [
-      { label: 'Admin Officer', value: '123-456-7890' },
-      { label: 'Email Officer', value: 'hilink@akinthil.com' },
+      { label: 'Admin Officer', value: '+256 705 377578' },
+      { label: 'Email Officer', value: 'katsmosafaris@gmail.com' },
     ],
   };
   

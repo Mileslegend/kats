@@ -7,7 +7,7 @@ import Footer from "@/components/Footer";
 
 
 export const metadata: Metadata = {
-  title: "KatsMo safaris",
+  title: "Katsmo safaris",
   description: "Get ready to explore Africa's wonders, one thrilling safari at a time with the best in tourism and self care.",
 };
 

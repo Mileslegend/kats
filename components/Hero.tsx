@@ -15,10 +15,10 @@ const Hero = () => {
         className='absolute left-[-5px] top-[-30px] w-10 lg:w-[5opx]'
         />
         <h1 className='bold-52 lg:bold-88'>
-          Kats Mo Safaris
+          Katsmo Safaris
         </h1>
         <p className='regular-16 mt-6 text-gray-30 xl:max-w-[520px]'>
-        Welcome to KatsMo Safaris, where adventure awaits at every turn! Immerse yourself in the untamed beauty of the African wilderness as with our expert guides and personalized itineraries, prepare to embark on unforgettable wildlife encounters, breathtaking landscapes, and cultural experiences that will leave you in awe.
+        Welcome to Katsmo Safaris, where adventure awaits at every turn! Immerse yourself in the untamed beauty of the African wilderness as with our expert guides and personalized itineraries, prepare to embark on unforgettable wildlife encounters, breathtaking landscapes, and cultural experiences that will leave you in awe.
         </p>
         <div className='my-11 flex flex-wrap gap-5 '>
           <div className='flex items-center gap-2'>
@@ -40,7 +40,7 @@ const Hero = () => {
         <div className='flex flex-col w-full gap-3 sm:flex-row '>
             <Button
             type='button'
-            title='Download App'
+            title='Call us 📞'
             variant='btn_green'
             />
             <Button
@@ -51,8 +51,9 @@ const Hero = () => {
             />
         </div>
       </div>
+      
       <div className='relative flex flex-1 items-start' >
-        <div className='relative z-20 w-[268px] flex flex-col gap-8 rounded-3xl bg-green-90 px-7 py-8'>
+        <div className='relative z-20  flex w-[268px] flex-col gap-8 rounded-3xl bg-green-90 px-7 py-8'>
           
           <div className='flex flex-col '>
             <div className='flexBetween '>
